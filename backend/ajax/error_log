@@ -1,0 +1,4 @@
+[19-May-2015 04:05:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/floortec/public_html/backend/ajax/upload.php on line 67
+[19-May-2015 04:05:22 UTC] PHP Notice:  Undefined variable: arrReturn in /home/floortec/public_html/backend/ajax/upload.php on line 112
+[19-May-2015 04:05:34 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/floortec/public_html/backend/ajax/upload.php on line 67
+[19-May-2015 04:05:34 UTC] PHP Notice:  Undefined variable: arrReturn in /home/floortec/public_html/backend/ajax/upload.php on line 112
